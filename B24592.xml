@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In Little Old Baily, at Mr. Lees house, at the two great posts, the third door from the Fountain Tavern, over against Sepulchres Church. Is resident a licensed physician, that cureth these following diseases. Is resident a licensed physician, that cureth these following diseases.</title>
+         </titleStmt>
+         <extent>Approx. 2KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24592</idno><idno type="EEBO-CITATION">99888632</idno>
+  <idno type="VID">195850</idno>
+  <idno type="EEBO-PROQUEST">2240901978</idno>
+  
+            <idno type="STC">Wing I112A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[46]</idno>
+            <idno type="STC">ESTC R231346</idno>
+            <idno type="PROQUEST">ocm99888632</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888632e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195850)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In Little Old Baily, at Mr. Lees house, at the two great posts, the third door from the Fountain Tavern, over against Sepulchres Church. Is resident a licensed physician, that cureth these following diseases. Is resident a licensed physician, that cureth these following diseases.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>At end of text: He is to be spoken with every afternoon from Three till Six.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Sexually transmitted diseases --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_doctor">
+            <pb facs="tcp:195850:1"/>
+            <pb facs="tcp:195850:1"/>
+            <head>In Little Old Baily, At Mr. <hi>Lees</hi> House, at the Two great Posts, the third door from the <hi>Fountain Tavern,</hi> over against <hi>Sepulchres Church.</hi>
+            </head>
+            <head type="sub">Is Resident a Licensed Physician, that Cureth these following Diseases.</head>
+            <p>THE RUNNING of the REINS, not always got by Women as some think, yet always known by an Issue at the Yard, and sometimes Pain in making water; its a distemper that by the Rashness and Deceit of ignorant Pretenders to its Cure, often proves Destructive in bringing in,</p>
+            <p>THE FRENCH POX With all its miserable attendants, as sad Pains, Swellings, and Ulcers, the which symptomes with all others, belonging either to the POX or RUNNING of the REINS, are eased presently, and in short time perfectly cured, beyond all danger of re<g ref="char:EOLhyphen"/>laps, and that by a way so pleasant; safe, and easie, that the t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nderest Patient need not keep house to hinder business, or discover their Distemper. Not taking any Mony till the Patient be perfectly cured.</p>
+            <lg>
+               <l>
+                  <hi>All sorts of Fevers and Agues.</hi>
+               </l>
+               <l>
+                  <hi>Jaundies and Dropsies of all kinds.</hi>
+               </l>
+               <l>
+                  <hi>Stoppage and Pain of the Urin.</hi>
+               </l>
+               <l>
+                  <hi>Obstructions of the Liver and Spleen.</hi>
+               </l>
+               <l>
+                  <hi>Fistulaes <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd all outward Ulcers.</hi>
+               </l>
+               <l>
+                  <hi>Gravell in the Bladder, or Kidneys.</hi>
+               </l>
+               <l>
+                  <hi>Fluxes and Gripping in the Guts.</hi>
+               </l>
+               <l>
+                  <hi>Wind-Cholick, Worms and Itch.</hi>
+               </l>
+               <l>
+                  <hi>For the Scurvy a very easie Cure.</hi>
+               </l>
+               <l>
+                  <hi>Such as cannot hold their Water.</hi>
+               </l>
+            </lg>
+            <p>He hath of his own preparation a sure Antidote both for p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evention <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Plague and Small-Pox, with all other contagious Diseases.</p>
+            <p>Likewise a very Easie, Speedy, and safe way for the perfect Cure of all inward Ulcers, as of the Mouth, Throat, Reins and Bladder, <hi>&amp;c.</hi>
+            </p>
+            <p>Also he never falleth in giving present ease in all pains either outward or inward, let the cause be what it will.</p>
+            <p>He is to be spoken with eve<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y A<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ternoon from Three till Six.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
